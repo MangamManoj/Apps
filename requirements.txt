@@ -4,3 +4,4 @@ numpy
 matplotlib
 keras
 pandas-datareader
+scikit-learn
