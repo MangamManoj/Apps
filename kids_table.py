@@ -12,7 +12,7 @@ import streamlit as st
 from num2words import num2words
 
 st.title('Tables')
-usr_ip = st.number_input('Insert the table no.',2)
+usr_ip = st.number_input('Insert the table no.',1)
 
 
 
