@@ -63,7 +63,7 @@ def output(x,i):
     
 puzzle(usr_ip)
 
-img2 = Image.open('y.jpg')
+img2 = Image.open('f.jpg')
  
 # display image using streamlit
 # width is used to set the width of an image
